@@ -1,0 +1,119 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    background-color: #D6CEC0;
+}
+
+.baby-blue {
+    background-color: #68BBE3;
+    color: azure;
+}
+ .blue-grotto {
+    background-color: #0E86D4;
+    color: azure;
+ }
+
+ .blue {
+    background-color: #055C9D;
+    color: azure;
+}
+
+.lora-regular {
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .lora-bold {
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+  }
+
+  .bg-body-tertiary {
+    background-color: #D6C099!important;
+  }
+
+  .navbar-brand {
+    color: black!important;
+    font: bolder!important;
+  }
+
+  .nav-link {
+    color: #333333!important;
+  }
+
+  .nav-link:hover {
+    color: black!important;
+    background-color: white!important;
+    opacity: 50%;
+  }
+
+  .active {
+    color: #3C081B!important;
+    text-decoration: underline;
+  }
+
+  .navbar-toggler {
+    filter: invert(100%);
+  }
+
+  .dropdown-item {
+    color: #333333!important;
+  }
+
+  .dropdown-item:hover {
+    color: black!important;
+  }
+
+  .dropdown-menu {
+    background-color: #D6C099;
+  }
+
+  h1 {
+    font-size: 1.802em;
+    font-weight: 700;
+  }
+
+  h2 {
+    font-size: 1.602em;
+    font-weight: 700;
+  }
+
+  h3 {
+    font-size: 1.402em;
+    font-weight: 700;
+  }
+
+  p {
+    font-weight: 400;
+  }
+  
+  .btn-primary {
+    background-color: #D6C099;
+    border-color: #D6C099;
+  }
+
+  .btn-primary:hover {
+    background-color: #AE8781;
+  }
+
+  .carousel-padding {
+    padding-left: 125px;
+    padding-right: 125px;
+    color: black;
+  }
+
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: #3C081B;
+    border-radius: 20%;
+    padding: 2px;
+  }
+
+  .card-body {
+    opacity: 60%;
+  }
